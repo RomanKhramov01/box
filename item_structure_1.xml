@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="67891">Одежда</category>
+    </categories>
+    <offers>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtVYnLjlOcjGXn07EY5etoZaoTODS</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtT3fZ9LSbNI8jBVGIhv9M9FQRXbl</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtXgmpDwa78Bj3PuOGduyU0vthR7z</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtUwKhbwCwXGz10eIHo5GtR7SNMvw</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtWLtxF1cs0GbSxk6UeIsb4i9RD76</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtZRMOTnM0UPRCKBXXDIkValfh442</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtbI2L237CX0iSxOGxAvWtjaqVqFc</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtcQQrI8d7iCP8CSeLeS6yZevhzJN</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtaea5wyUycR4cjJDMX9XXhdcIA7R</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtYqSXZKenlCcaCRvq2fTLDm4atoM</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
