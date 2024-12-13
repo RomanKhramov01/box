@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="67891">Одежда</category>
+      <category id="67890">Оджеда </category>
+    </categories>
+    <offers>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtVYnLjlOcjGXn07EY5etoZaoTODS</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtT3fZ9LSbNI8jBVGIhv9M9FQRXbl</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtXgmpDwa78Bj3PuOGduyU0vthR7z</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtUwKhbwCwXGz10eIHo5GtR7SNMvw</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtWLtxF1cs0GbSxk6UeIsb4i9RD76</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtZRMOTnM0UPRCKBXXDIkValfh442</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtbI2L237CX0iSxOGxAvWtjaqVqFc</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtcQQrI8d7iCP8CSeLeS6yZevhzJN</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtaea5wyUycR4cjJDMX9XXhdcIA7R</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12346" available="true">
+        <url>http://www.example.com/product/12346</url>
+        <price>1300</price>
+        <model>ABC</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67891</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYtYqSXZKenlCcaCRvq2fTLDm4atoM</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">SMSM</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI42iSEEaiMKFR1YJj3Kk74spWi1U</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHxpFBZjoaPZ8j67TIBqUal1mWEjX</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHtNL58ZBeI7gQ8gOJDK4T8fA3tx9</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHyQ92UCztfPt81SX4Mkm8ZW16uvv</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI2lwldAs4zIf9D2zShHXYx1zFuPR</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHuRC1JdyYz2yXDQItA5sn9935Pza</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI0hVHGhDw8d8eX3ubXjSZxbiRWnO</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHqbblRCT9P6aJYLBSYehf6CIru98</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHslIphqglIcdEDyXJSHZZVZrF7Uk</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHwSEK7FieNwgWePC2HFuJpx2RE8v</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHvBJpxCrDRlMAsvkfGDiI3U3ZJDl</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHz3JgRBy9pD5yqWIBg60AtHvJCzc</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHnWQvKaS0D5If7yxRtsmGBlBxTsT</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHx8o9d0HgUPzaCx4Di0eRhZilRt9</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI2EAV9Olj3IGqzgtiTSmTkEsHfW4</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHrFUPDMf1isTZ2ohF6DgEWmMnpNk</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHsBXNJdAlyj0BwKNeJBNck2JqRg7</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI6ywvjo9XHSiPmZ8yps62B2EqkI8</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYHpu2KyDymJEHuaZ8vgIL06VQvova</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYCrywzeobW8fhqYdhZLZTqw5ju6Lg</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI1WsfoTjTYwhfEcyjbclZRLyFoCU</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI052d8k8WLphcaJGNQwxgAQ6fUin</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JYI5I49AteSltHvH8A0rNOtMaKqlez</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12349" available="true">
+        <url>http://www.example.com/product/12349</url>
+        <price>650</price>
+        <model>JKL</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZUo7eqoAs3GQw140DJEsUNxaZbk3O</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Оверсайз (до 52)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12349" available="true">
+        <url>http://www.example.com/product/12349</url>
+        <price>650</price>
+        <model>JKL</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZUm9AwBFFa4nL1VlMVNfqIEAViNdW</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Оверсайз (до 52)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12349" available="true">
+        <url>http://www.example.com/product/12349</url>
+        <price>650</price>
+        <model>JKL</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZUjLbE8hyDuklgjYfYNyYJNs9fnfQ</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Оверсайз (до 52)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12347" available="true">
+        <url>http://www.example.com/product/12347</url>
+        <price>650</price>
+        <model>DEF</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZ8XnkUabhE2EHLIQ4v7OSX43hpGES</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12347" available="true">
+        <url>http://www.example.com/product/12347</url>
+        <price>650</price>
+        <model>DEF</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZ8XCZ2Y4NTjECbdWgUVbCwjjltUEY</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12347" available="true">
+        <url>http://www.example.com/product/12347</url>
+        <price>650</price>
+        <model>DEF</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZ8WV8Pe7oTJDTGKXjb0XOG4TgJUVt</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12347" available="true">
+        <url>http://www.example.com/product/12347</url>
+        <price>650</price>
+        <model>DEF</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZ8YYaJ3KkoBfhTwKHQ3FAHhAh0Pq3</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12350" available="true">
+        <url>http://www.example.com/product/12350</url>
+        <price>620</price>
+        <model>MNO</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZh3dGwgoDF256CDPzyiqFW1OX9x0g</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12350" available="true">
+        <url>http://www.example.com/product/12350</url>
+        <price>620</price>
+        <model>MNO</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZh32nUTRJSL6gs0yxTDSgqybDrGXY</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12350" available="true">
+        <url>http://www.example.com/product/12350</url>
+        <price>620</price>
+        <model>MNO</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZh2PLFOOPNxX9oZIOIRd0yE8dXY1f</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12350" available="true">
+        <url>http://www.example.com/product/12350</url>
+        <price>620</price>
+        <model>MNO</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZh1Dp8hbR5nWf8fBE3WBPHxQkTOjD</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт</param>
+        <param name="Дополнительные функции">Высокое качество пошива</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIWtSNZdPGoa2NxHv5eaJA2GaNNdd</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIblKmPaob42u0olby0TB7EwBzb1q</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIUr8sgp80cdWfJYI1JOSdZoR2TDh</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIb0UxwrqERWe68mMx2vKg2YjQGgs</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIZBx0sCwVON1dVVtXdglB4HWkqIt</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIQKynIy2bF4gBcHWEhSox8SER3nA</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZIXyjJP0M9ULyajIoLhetT1LJ0nq2</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZISM166UBw7oOF5D3xNXP3auWOTYT</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+      <offer id="12348" available="true">
+        <url>http://www.example.com/product/12348</url>
+        <price>650</price>
+        <model>GHI</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://cloud.nambagroup.net/d/f/11JZId8m2Z8UTC6vjRNpmxe8dcgha03G</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">Стандарт (до 52р)</param>
+        <param name="Дополнительные функции">В наличии, фланель</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
