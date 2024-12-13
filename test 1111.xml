@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="67890">Оджеда </category>
+    </categories>
+    <offers>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/14pW-n_06ane8jTWx4Sd6R77Xw2dfR82C/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1g8WO-lQoA7uqg875HzTIPmGKYbTVG-D4/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1FOMwO5vhSdbzCClu7HH9FVkyl6EC4ZhW/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/11alxGoB4JXCl5bQB3yj2e5RkQ59mRf0g/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1KFUpB3dmarRKj3TXF-O56sfVWSMayBDE/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1oS0K-UV6_W9QmKF3tKfQ_xrQIcbhrnkM/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1zfIFYUkqfAgWaZge5hNUDZ-k2m8g1i8l/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/19qNuxtYtlNihmmEOvd-SeZUSqUJFDo2x/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1bArTlYRRvwThunwkPaprxkXn97hiD9Dd/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1I5E2Rr_vXJl0dfgzCY383lU_9vIa4Ul-/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1VRgDUG2VShmIsiHjxpfIJ8bS9FsqbN0L/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1erR-C8NBqo4CHT0smqKLVx_2fS52ttF0/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1xZ2mhtJQw2D4rLl_4d3IgCMiIsyX0xu3/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1r3PCuM7FutqThOCbWkc_jjijQwk-GKRW/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1SHqsZs1YzYmKce6_zH9izcJ98jPQlul4/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1KwI3Rfz2g8M0AAlmVxu5zOM9i8BLszs1/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/18nSMJlN6w1aOgMjR1sImyoJFGfrbb1JZ/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1VOPZP3IiDTn2tjOb2tZgfL4A0uwap5qS/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1JxmYt8vNIrdgMi6cRPe6UT4ruFdmRvCO/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1UPqJtP8-TRAbmljcWlxZdHImn8WPARek/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1ozOzk6i3MhOPW8qFWx8pRau3zpryQMGp/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1NlsQoYbUUluXKuFe5h3I-5N42xTJyZ8s/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+      <offer id="12345" available="true">
+        <url>http://www.example.com/product/12345</url>
+        <price>700</price>
+        <model>XYZ</model>
+        <currencyId>сом</currencyId>
+        <categoryId>67890</categoryId>
+        <picture>https://drive.google.com/file/d/1Wbnzvt--yfKb_VyLarejQDSoTXNy8bMo/view?usp=drive_link</picture>
+        <picture>nan</picture>
+        <param name="Тип">женская</param>
+        <param name="Размер">оверсайз 52-58</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
